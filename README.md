@@ -22,6 +22,7 @@ You can open the file directly in your browser or deploy it to platforms like Gi
 
 - HTML5
 - CSS3
+- JavaScript
 - Font Awesome (for icons)
 
 ## 📬 Contact
